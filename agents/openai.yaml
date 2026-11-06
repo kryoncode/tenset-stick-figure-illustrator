@@ -1,0 +1,4 @@
+interface:
+  display_name: "极简火柴人概念插画"
+  short_description: "将抽象观点转成白底黑线、火柴人和生活隐喻组成的手绘解释性配图"
+  default_prompt: "使用 $tenset-stick-figure-illustrator，为这段内容生成极简手绘概念插画，用火柴人和具体场景解释核心关系。"
